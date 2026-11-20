@@ -1,1 +1,1 @@
-specially-plugins-breakfast-temperatures.trycloudflare.com
+nyc-lightweight-ranked-cached.trycloudflare.com
