@@ -1,1 +1,1 @@
-throw-freeze-mods-catalogs.trycloudflare.com
+tee-corrections-standings-notify.trycloudflare.com
